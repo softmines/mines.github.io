@@ -1,0 +1,32 @@
+Uri: https://mines.verxlucky.ru/
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\index.htm
+Content Type: text/html
+
+Uri: https://mines.verxlucky.ru/fonts/intro.otf
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\fonts\intro.otf
+Content Type: application/octet-stream
+
+Uri: https://mines.verxlucky.ru/images/back.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\images\back.png
+Content Type: image/png
+
+Uri: https://mines.verxlucky.ru/images/logo.jpg
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://mines.verxlucky.ru/images/play.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\images\play.png
+Content Type: image/png
+
+Uri: https://mines.verxlucky.ru/js/jquery-3.1.0.min.js
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\js\jquery-3.1.0.min.js
+Content Type: application/javascript
+
+Uri: https://mines.verxlucky.ru/js/jquery.imgexplode.js
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\js\jquery.imgexplode.js
+Content Type: application/javascript
+
+Uri: https://mines.verxlucky.ru/js/telegram-web-app.js
+File Name: C:\Users\Użytkownik\Desktop\верстка\mines.verxlucky.ru\js\telegram-web-app.js
+Content Type: application/javascript
+
